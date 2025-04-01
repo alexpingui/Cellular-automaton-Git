@@ -1,0 +1,10 @@
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\bin\Debug\Cellular Automaton Noob Edition.exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\bin\Debug\Cellular Automaton Noob Edition.exe
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\bin\Debug\Cellular Automaton Noob Edition.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\obj\Debug\Cellular Automaton Noob Edition.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\obj\Debug\Cellular_Automaton_Noob_Edition.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\obj\Debug\Cellular Automaton Noob Edition.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\obj\Debug\Cellular Automaton Noob Edition.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\obj\Debug\Cellular Automaton Noob Edition.exe
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\obj\Debug\Cellular Automaton Noob Edition.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Cellular Automaton Noob Edition\obj\Debug\Cellular_Automaton_Noob_Edition.Form1.resources
